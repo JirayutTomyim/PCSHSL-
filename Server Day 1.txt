@@ -1,0 +1,18 @@
+รู้ภาครวมทั้งหมดก่อน
+
+รับส่งข้อมูล connection
+
+broad เก็บค่าเซ็นเซอร์
+package จะถูกformatไปสู้cayean ส่งไปเก็บเเละ decode ข้อมูลใน data base
+
+*line ทำchat bot ที่ถูกดึงค่าจาก server
+ต้องเก็บค่าจากcayeanให้หมด
+
+node.js
+เกิดมาเพื่อให้คนทำ backend (ส่วนของcode)
+ลง npm สำหรับลง packagemanaager
+
+REST API
+ปัจจุบันใช้ graph QL
+ส่งกันเเบบ text str json hml
+
